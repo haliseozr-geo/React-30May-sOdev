@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "roleId": 2,
+      "userName": "Halise Özer",     
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    
+    },
+    {
+      "id": 2,
+      "roleId": 1,
+      "userName": "Yusuf Emre Bilgiç",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 4,
+      "roleId": 1,
+      "userName": "Hüseyin Yıldız",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 5,
+      "roleyId": 2,
+      "userName": "Ahmet Hakan",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 6,
+      "roleId": 2,
+      "userName": "İskender Pala",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 7,
+      "roleId": 4,
+      "userName": "Nazan Bekiroğlu",
+      "image":"images/img4.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 8,
+      "roleId": 2,
+      "userName": "Milhan Özgenç",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 9,
+      "roleId": 3,
+      "userName": "Zühre Erdoğan",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 10,
+      "roleId": 1,
+      "userName": "Elif dönmez",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 11,
+      "roleId": 1,
+      "userName": "Ali Mert",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 12,
+      "roleId": 4,
+      "userName": "Safiye Akyıldız",
+      "image":"images/img4.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 13,
+      "roleId": 2,
+      "userName": "Feyza Uymaz",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 14,
+      "roleId": 3,
+      "userName": "Reha Metin Alkan",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 15,
+      "roleId": 2,
+      "userName": "Süleyman Genç",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 16,
+      "roleId": 3,
+      "userName": "Sema Nur Akyıldız",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 17,
+      "roleId": 1,
+      "userName": "Rabia Ünlü",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 18,
+      "roleId": 2,
+      "userName": "Taha Ünlü",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 19,
+      "roleId": 3,
+      "userName": "Ahmet Ümit",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 20,
+      "roleId": 3,
+      "userName": "Mehmet Bilek",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 21,
+      "roleId": 3,
+      "userName": "İbrahim Kalın",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 22,
+      "roleId": 1,
+      "userName": "Hatice Yıldız",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 23,
+      "roleId": 1,
+      "userName": "Adem İslamoğlu",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 24,
+      "roleId": 1,
+      "userName": "Yusuf Talha Bayraktar",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 25,
+      "roleId": 3,
+      "userName": "Selim Ermiş",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 26,
+      "roleId": 3,
+      "userName": "Pınar Dişkaya",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 27,
+      "roleId": 3,
+      "userName": "Emine Nerse",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 28,
+      "categoryId": 2,
+      "productName": "Ezgi Altun",
+      "image":"images/img2.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 29,
+      "roleId": 3,
+      "userName": "Merve Çakır",
+      "image":"images/img3.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 30,
+      "roleId": 1,
+      "userName": "Gülnur Çalışkan",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 31,
+      "roleId": 4,
+      "userName": "Gorgonzola Telino",
+      "image":"images/img4.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 32,
+      "roleId": 1,
+      "userName": "Meryem Hatun",
+      "image":"images/img1.jpg",
+      "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }  
+   
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "Ögrenci"
+     
+    },
+    {
+      "id": 2,
+      "roleName": "Ögretmen"
+     
+    },
+    {
+      "id": 3,
+      "roleName": "Personel"
+     
+    },
+    {
+      "id": 4,
+      "roleName": "Yönetici"
+    
+    }
+    
+  ]
+}
